@@ -1,3 +1,3 @@
 # first-demo
 This is my first Git Repository
-Author-Mahidhar
+Author-Mahidhar S
